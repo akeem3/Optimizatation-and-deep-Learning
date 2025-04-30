@@ -1,4 +1,41 @@
-The dataset used for this task is the Video Game Sales dataset, which is available on Kaggle. The dataset contains sales data for video games, including information about the game title, publisher, platform, and sales figures for various regions. This dataset is suitable for this assignment as it contains a large amount of data, with over 16,000 records and 11 different attributes. This dataset provides a great opportunity to analyze the sales trends of video games over time, which is a relevant and interesting topic in the gaming industry.
-One of the main reasons why this dataset is suitable for this assignment is the presence of a large number of records. This allows for a robust analysis of the data, and the ability to identify patterns and trends in the data. Additionally, the dataset contains a large number of attributes, which allows for a more detailed analysis of the data. For example, the dataset includes information about the platform of the video game, which can be used to analyze the sales of video games across different platforms.
-The model selection for this assignment was based on the goal of the analysis, which is to predict the sales of video games. The models chosen for this assignment include Linear Regression, Artificial Neural Network (ANN), and Recurrent Neural Network (RNN). Linear Regression is a simple and widely used model for predicting numerical data, making it a suitable model for predicting sales figures. ANN is a more complex model that is commonly used for predicting numerical data, making it a suitable model for this task as well. RNN is a model that is commonly used for sequential data, such as time series data, making it a suitable model for analyzing sales trends over time.
-Dataset Link: https://www.kaggle.com/gregorut/videogamesales
+🎮 GameIntel: Predictive Analytics for the Gaming Industry
+🧠 AI: Predictive Modeling with Deep Learning
+📌 Project Summary
+This project analyzes and predicts video game sales using machine learning and deep learning techniques. By leveraging the Video Game Sales dataset from Kaggle, the goal is to uncover trends and develop models that accurately forecast global sales performance across different regions and platforms.
+
+📊 Dataset Overview
+📁 Source: Kaggle - Video Game Sales Dataset
+
+🧾 Records: 16,000+ entries
+
+🔢 Features:
+
+Game Title
+
+Platform
+
+Publisher
+
+Year of Release
+
+Sales (NA, EU, JP, Other, Global)
+
+✅ Why This Dataset?
+Rich historical data with diverse attributes
+
+Enables multi-dimensional trend and platform-based analysis
+
+Ideal for both regression and time-series modeling tasks
+
+🤖 Models Implemented
+Linear Regression
+
+A simple, interpretable baseline for predicting numerical sales data.
+
+Artificial Neural Network (ANN)
+
+Handles non-linear relationships with improved prediction accuracy.
+
+Recurrent Neural Network (RNN)
+
+Tailored for time-dependent trends, capturing sales evolution over time.
