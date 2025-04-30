@@ -1,6 +1,4 @@
-# AI: Predictive Analytics for the Gaming Industry
-
-## AI: Predictive Modeling with Deep Learning
+# AI: Predictive Modeling with Deep Learning
 
 ## Project Summary
 
