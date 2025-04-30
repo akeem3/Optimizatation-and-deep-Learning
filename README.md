@@ -1,41 +1,51 @@
-🎮 GameIntel: Predictive Analytics for the Gaming Industry
-🧠 AI: Predictive Modeling with Deep Learning
-📌 Project Summary
-This project analyzes and predicts video game sales using machine learning and deep learning techniques. By leveraging the Video Game Sales dataset from Kaggle, the goal is to uncover trends and develop models that accurately forecast global sales performance across different regions and platforms.
+# 🎮 **GameSales AI: Predictive Analytics for the Gaming Industry**
 
-📊 Dataset Overview
-📁 Source: Kaggle - Video Game Sales Dataset
+## 🧠 AI: Predictive Modeling with Deep Learning
 
-🧾 Records: 16,000+ entries
+---
 
-🔢 Features:
+## 📌 **Project Summary**
 
-Game Title
+This project analyzes and predicts video game sales using machine learning and deep learning techniques. By leveraging the [Video Game Sales dataset](https://www.kaggle.com/gregorut/videogamesales) from Kaggle, the goal is to uncover trends and develop models that accurately forecast global sales performance across different regions and platforms.
 
-Platform
+---
 
-Publisher
+## 📊 **Dataset Overview**
 
-Year of Release
+- **📁 Source**: [Kaggle - Video Game Sales Dataset](https://www.kaggle.com/gregorut/videogamesales)  
+- **🧾 Records**: 16,000+ entries  
+- **🔢 Features**:
+  - Game Title  
+  - Platform  
+  - Publisher  
+  - Year of Release  
+  - Sales (NA, EU, JP, Other, Global)
 
-Sales (NA, EU, JP, Other, Global)
+---
 
-✅ Why This Dataset?
-Rich historical data with diverse attributes
+## ✅ **Why This Dataset?**
 
-Enables multi-dimensional trend and platform-based analysis
+- Rich historical data with diverse attributes  
+- Enables multi-dimensional trend and platform-based analysis  
+- Ideal for both **regression** and **time-series** modeling tasks  
 
-Ideal for both regression and time-series modeling tasks
+---
 
-🤖 Models Implemented
-Linear Regression
+## 🤖 **Models Implemented**
 
-A simple, interpretable baseline for predicting numerical sales data.
+- **Linear Regression**  
+  A simple, interpretable baseline for predicting numerical sales data.
 
-Artificial Neural Network (ANN)
+- **Artificial Neural Network (ANN)**  
+  Handles non-linear relationships with improved prediction accuracy.
 
-Handles non-linear relationships with improved prediction accuracy.
+- **Recurrent Neural Network (RNN)**  
+  Tailored for time-dependent trends, capturing sales evolution over time.
 
-Recurrent Neural Network (RNN)
+---
 
-Tailored for time-dependent trends, capturing sales evolution over time.
+## 🎯 **Objective**
+
+To predict global video game sales and extract actionable insights on how **platform**, **region**, and **time** affect sales performance.
+
+---
